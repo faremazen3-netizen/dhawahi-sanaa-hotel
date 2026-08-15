@@ -1,0 +1,6 @@
+{
+  "name": "فندق ضواحي صنعاء",
+  "description": "الموقع الرسمي لفندق ضواحي صنعاء - راحة وأناقة في قلب العاصمة صنعاء، مذبح أمام نادي الشعب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
